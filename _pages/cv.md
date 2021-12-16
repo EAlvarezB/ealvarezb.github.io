@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find a comprenhensive description of my academic and professional carrer on my Curriculum Vitae [here](https://ealvarezb.github.io/files/CV_AlvarezBarreno.pdf).
+You can find a comprenhensive description of my academic and professional carrer on my CV [here](https://ealvarezb.github.io/files/CV_AlvarezBarreno.pdf).
 
 Education
 ======
