@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Lecturer in Political Science in the Department of Social and Humans Sciences at Universidad Hemisferios.
 
-You can download my CV [here](https://https://ealvarezb.github.io//files/CV_AlvarezBarreno (EN).pdf)
+You can download my CV [here](https://https://ealvarezb.github.io//files/CV_AlvarezBarreno.pdf)
 
 
 **My research interests**
