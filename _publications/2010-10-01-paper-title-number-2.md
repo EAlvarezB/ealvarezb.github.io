@@ -10,6 +10,5 @@ citation:
 ---
 Journal Articles (Peer-Reviewed)
 ---
+Alvarez Barreno, Erick. 2021. “[Ciclos políticos presupuestarios en América Latina. Un análisis de panel dinámico.](https://revistas.udea.edu.co/index.php/estudiospoliticos/article/view/344333)” In Estudios Políticos, 62, pp. 267-292.
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
