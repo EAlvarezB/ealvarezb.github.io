@@ -13,8 +13,8 @@ I am a Lecturer in Political Science in the Department of Social and Humans Scie
 You can download my CV [here](https://https://ealvarezb.github.io//files/CV_AlvarezBarreno.pdf)
 
 
-**My research interests**
-======
+My research interests
+------
 
 
 Getting started
