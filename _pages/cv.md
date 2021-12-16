@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can find a comprenhensive description of my academic and professional carrer on my Curriculum Vitae [here](https://ealvarezb.github.io/files/CV_AlvarezBarreno.pdf).
 
 Education
 ======
