@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **M.Res.** in Comparative Politics, Facultad Latinoamericana de Ciencias Sociales, 2022 (expected)
+* **M.A.** in Political Analysis and Institutional Assessment, Universitat de Barcelona, 2018
+* **B.A.** in Political Science and International Relations, Universidad Hemisferios, 2016
 
 Work experience
 ======
