@@ -15,45 +15,26 @@ Education
 * **M.A.** in Political Analysis and Institutional Assessment, Universitat de Barcelona, 2018
 * **B.A.** in Political Science and International Relations, Universidad Hemisferios, 2016
 
-Work experience
+Researhc experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Research Assistant**, Facultad Latinoamericana de Ciencias Sociales. October 2019 – September 2021
+  * Supervisor: Carolina Curvale
+  * Project: “Political Economy of Dollarization: The Case of Ecuador”
+  * Duties: Case study data collection, systematic literature review, data processing and handling
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Associated Researcher**, Colegio de Politólogos y Sociólogos de Cataluña. January 2018 – May 2018
+  * Supervisor: Antoni Biarnés
+  * Project: “Report on the Democratic Quality of Spanish Institutions”
+  * Duties: Documentary, legal, and journalistic data collection. Coauthor of the report
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* *Languages:* Spanish (native), English (fluent, TOEFL iBT), French (basic proficiency), Catalan (basic proficiency)
+* *Software:* Stata (intermediate proficiency, code sample), LATEX, Overleaf Editor, UCINET (basic proficiency), Microsoft Office
+* *Programming Languages:* R (intermediate-advanced proficiency, code sample)
+* *Econometric Analysis:* Linear Regressions; Discrete Choice Models; Panel Data Models; Instrumental Variables Regression; Matching; Theoretical proficiency in RCTs, DiD, and RDD
   
-Talks
+Academic Service
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Journal Reviewer:** Revista Estudios Políticos (November 2021)
+* **Content Coordinator and Editor:** Newsletter “Clivajes” N° 5; N° 6, Ecuadorian Political Science Association
