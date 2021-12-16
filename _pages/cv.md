@@ -30,11 +30,11 @@ Research experience
 Skills
 ======
 * *Languages:* Spanish (native), English (fluent, TOEFL iBT), French (basic proficiency), Catalan (basic proficiency)
-* *Software:* Stata (intermediate proficiency, code sample), LATEX, Overleaf Editor, UCINET (basic proficiency), Microsoft Office
-* *Programming Languages:* R (intermediate-advanced proficiency, code sample)
+* *Software:* Stata (intermediate proficiency, [code sample](https://drive.google.com/drive/folders/1-GPe8CjeUvPYNdzYO4UUmWBZGpH4rYYX)), LATEX, Overleaf Editor, UCINET (basic proficiency), Microsoft Office
+* *Programming Languages:* R (intermediate-advanced proficiency, [code sample](https://drive.google.com/drive/folders/16hu5i0-lfOQ-BCseFRuSws-tV28cWf5v))
 * *Econometric Analysis:* Linear Regressions; Discrete Choice Models; Panel Data Models; Instrumental Variables Regression; Matching; Theoretical proficiency in RCTs, DiD, and RDD
   
 Academic Service
 ======
 * **Journal Reviewer:** Revista Estudios Políticos (November 2021)
-* **Content Coordinator and Editor:** Newsletter “Clivajes” N° 5; N° 6, Ecuadorian Political Science Association
+* **Content Coordinator and Editor:** Newsletter “Clivajes” [N° 5](https://drive.google.com/drive/folders/17oHFdkHoqCm5zZTgiumZZOMTKrepfoNf); [N° 6](https://drive.google.com/file/d/1R5TTMMlYjQ-hv0wZfhUZfUkfudEYAKcY/view), Ecuadorian Political Science Association
