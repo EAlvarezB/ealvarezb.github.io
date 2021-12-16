@@ -15,7 +15,7 @@ Education
 * **M.A.** in Political Analysis and Institutional Assessment, Universitat de Barcelona, 2018
 * **B.A.** in Political Science and International Relations, Universidad Hemisferios, 2016
 
-Researhc experience
+Research experience
 ======
 * **Research Assistant**, Facultad Latinoamericana de Ciencias Sociales. October 2019 – September 2021
   * Supervisor: Carolina Curvale
