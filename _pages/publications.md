@@ -13,6 +13,8 @@ Paper available [here](http://ealvarezb.github.io/files/paper2.pdf)
 <button class="collapsible">Abstract</button>
 <div class="content">
   <p>Background: As vaccination campaigns are deployed worldwide, addressing vaccine hesitancy is of critical importance to ensure sufficient immunization coverage. We analyzed COVID-19 vaccine acceptance across 15 samples covering ten low- and middle-income countries (LMICs) in Asia, Africa, and South America, and two higher income countries (Russia and the United States).</p>
+  </div>
+</li>
 
 [3] **Alvarez Barreno, Erick**. 2021. “Condiciones Institucionales para la Durabilidad de la Democracia.” In Colloquia Journal of Culture and Thought, forthcoming.
 Paper available [here](http://ealvarezb.github.io/files/paper1.pdf)
