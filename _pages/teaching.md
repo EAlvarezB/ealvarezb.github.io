@@ -7,26 +7,16 @@ author_profile: true
 
 Graduate Level
 ---
-* **M.Res.** in Comparative Politics, Facultad Latinoamericana de Ciencias Sociales, 2022 (expected)
-* **M.A.** in Political Analysis and Institutional Assessment, Universitat de Barcelona, 2018
-* **B.A.** in Political Science and International Relations, Universidad Hemisferios, 2016
-
-Research experience
----
-* **Research Assistant**, Facultad Latinoamericana de Ciencias Sociales. October 2019 – September 2021
+* **Teaching Assistant**, Facultad Latinoamericana de Ciencias Sociales, August 2021 – October 2021
   * Supervisor: Carolina Curvale
-  * Project: “Political Economy of Dollarization: The Case of Ecuador”
-  * Duties: Case study data collection, systematic literature review, data processing and handling
+  * Course and duties: Comparative Political Economy. Led section discussions for 16 students, delivered lecture information to the instructor and presented a lecture on “The Politics of Economic Growth”
 
-* **Associated Researcher**, Colegio de Politólogos y Sociólogos de Cataluña. January 2018 – May 2018
-  * Supervisor: Antoni Biarnés
-  * Project: “Report on the Democratic Quality of Spanish Institutions”
-  * Duties: Documentary, legal, and journalistic data collection. Coauthor of the report
-  
-Skills
+Undergraduate Level
 ---
-* *Languages:* Spanish (native), English (fluent, TOEFL iBT), French (basic proficiency), Catalan (basic proficiency)
-* *Software:* Stata (intermediate proficiency, [code sample](https://drive.google.com/drive/folders/1-GPe8CjeUvPYNdzYO4UUmWBZGpH4rYYX)), LATEX, Overleaf Editor, UCINET (basic proficiency), Microsoft Office
-* *Programming Languages:* R (intermediate-advanced proficiency, [code sample](https://drive.google.com/drive/folders/16hu5i0-lfOQ-BCseFRuSws-tV28cWf5v))
-* *Econometric Analysis:* Linear Regressions; Discrete Choice Models; Panel Data Models; Instrumental Variables Regression; Matching; Theoretical proficiency in RCTs, DiD, and RDD
+* **Lecturer**, Universidad Hemisferios. March 2020 – Present
+  * Courses taught as main instructor: Governance and Public Management; Research Methodology; Democracy and Govern-ability; Theory of Public Administration; Political Parties and Social Movements; Political Sociology; Oral and Writing Skills
   
+Secondary Education
+---
+* **Teacher**, ANAN High School. April 2019 – July 2019
+  * Courses taught as main instructor: History; Philosophy; Civics
