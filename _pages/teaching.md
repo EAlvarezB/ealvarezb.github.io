@@ -7,7 +7,7 @@ author_profile: true
 
 Graduate Level
 ---
-* **Teaching Assistant**, Facultad Latinoamericana de Ciencias Sociales, August 2021 – October 2021
+* **Teaching Assistant**, Facultad Latinoamericana de Ciencias Sociales. August 2021 – October 2021
   * Supervisor: Carolina Curvale
   * Course and duties: Comparative Political Economy. Led section discussions for 16 students, delivered lecture information to the instructor and presented a lecture on “The Politics of Economic Growth”
 
