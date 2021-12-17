@@ -18,6 +18,9 @@ Paper available [here](http://ealvarezb.github.io/files/paper2.pdf)
 </li>
 
       	<li>
+  <p>
+    <b>Baobao Zhang</b>, Markus Anderljung, Lauren Kahn, Noemi Dreksler, Michael C. Horowitz, and Allan Dafoe, 2021. <a href = "https://doi.org/10.1613/jair.1.12895">"Ethics and Governance of Artificial Intelligence Evidence from a Survey of Machine Learning Researchers</a>." <i>Journal of Artificial Intelligence Research</i>, 71, 591–666.
+  </p>
 
 [3] **Alvarez Barreno, Erick**. 2021. “Condiciones Institucionales para la Durabilidad de la Democracia.” In Colloquia Journal of Culture and Thought, forthcoming.
 Paper available [here](http://ealvarezb.github.io/files/paper1.pdf)
