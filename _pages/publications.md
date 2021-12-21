@@ -15,7 +15,7 @@ Paper available [here](http://ealvarezb.github.io/files/Durab_Demo.pdf)
 
 Outstanding Papers and Articles (Non-Peer Reviewed)
 ---
-[2] **Alvarez Barreno, Erick**. 2020. “[El Juego de la Cuarentena.](https://drive.google.com/file/d/1Ua61iXqLALoxec7wtWTLhZfCVcpu3AOo/view)” In Newsletter CLIVAJES, 5 (4), pp. 10-13. Ecuadorian Political Science Association.
+[2] **Alvarez Barreno, Erick**. 2020. “[El Juego de la Cuarentena.](https://drive.google.com/file/d/1Ua61iXqLALoxec7wtWTLhZfCVcpu3AOo/view)” In *Newsletter CLIVAJES*, 5 (4), pp. 10-13. Ecuadorian Political Science Association.
 
-[1] **Alvarez Barreno, Erick**. 2018. “[Entre la Excepción y la Norma: Una Aproximación Teórica al Análisis del Comportamiento Judicial en Tiempos de Crisis.](http://diposit.ub.edu/dspace/handle/2445/126336)” In Digital Archive of the
-University of Barcelona.
+[1] **Alvarez Barreno, Erick**. 2018. “[Entre la Excepción y la Norma: Una Aproximación Teórica al Análisis del Comportamiento Judicial en Tiempos de Crisis.](http://diposit.ub.edu/dspace/handle/2445/126336)” In *Digital Archive of the
+University of Barcelona*.
