@@ -10,8 +10,8 @@ Journal Articles (Peer-Reviewed)
 [4] **Alvarez Barreno, Erick**. 2021. “[Ciclos políticos presupuestarios en América Latina. Un análisis de panel dinámico.](https://revistas.udea.edu.co/index.php/estudiospoliticos/article/view/344333)” In Estudios Políticos, 62, pp. 267-292. 
 Paper available [here](http://ealvarezb.github.io/files/PBC_LA.pdf)
 
-[3] **Alvarez Barreno, Erick**. 2021. “Condiciones Institucionales para la Durabilidad de la Democracia.” In Colloquia Journal of Culture and Thought, forthcoming.
-Paper available [here](http://ealvarezb.github.io/files/paper1.pdf)
+[3] **Alvarez Barreno, Erick**. 2021. “[Condiciones Institucionales para la Durabilidad de la Democracia.](https://colloquia.uhemisferios.edu.ec/index.php/colloquia/article/view/109)” In Colloquia Journal of Culture and Thought, 8, pp. 37-48.
+Paper available [here](http://ealvarezb.github.io/files/Durab_Demo.pdf)
 
 Outstanding Papers and Articles (Non-Peer Reviewed)
 ---
