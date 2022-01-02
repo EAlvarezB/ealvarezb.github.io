@@ -14,7 +14,7 @@ Graduate Level
 Undergraduate Level
 ---
 * **Lecturer**, Universidad Hemisferios. March 2020 – Present
-  * Courses taught as main instructor: Governance and Public Management; Research Methodology; Democracy and Govern-ability; Theory of Public Administration; Political Parties and Social Movements; Political Sociology; Oral and Writing Skills
+  * Courses taught as main instructor: Theory of International Relations, Governance and Public Management; Research Methodology; Theory of Democracy; Theory of Public Administration; Political Parties and Social Movements; Political Sociology; Oral and Writing Skills
   
 Secondary Education
 ---
