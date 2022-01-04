@@ -3,7 +3,6 @@ title:
 layout: single
 clases: wide
 permalink: /workingpapers/
-author_profile: true
 ---
 <br/> 
 
