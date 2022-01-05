@@ -14,7 +14,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
-**Executive Constraints and Economic Growth.** 2022.
+**Executive Constraints and Economic Growth.** Unpublished Manuscript, 2022.
 <br/>
 <small>[ <a href="#/" onclick="visib('did-review')">Abstract</a> | [Draft][did-review-draft] ] </small>
 
@@ -25,7 +25,7 @@ Using panel data of 143 countries from 1950 to 2010, this article estimates the 
 [did-review-draft]:{{ site.baseurl }}{% link files/Executive_Constraints.pdf %}
 
 
-**Participatory Democracy in Action: Observational, Survey and Experimental Evidence from Latin America.** 2022.
+**Participatory Democracy in Action: Observational, Survey and Experimental Evidence from Latin America.** PhD Research Proposal, 2022.
 
 
 
