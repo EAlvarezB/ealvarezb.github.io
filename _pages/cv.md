@@ -17,6 +17,11 @@ Education
 
 Research experience
 ---
+* **Research Assistant**, Facultad Latinoamericana de Ciencias Sociales. January 2022 – March 2022
+  * Supervisor: Carolina Curvale
+  * Project: “Political Studies in the Andean Countries”
+  * Duties: Gathering, processing and handling of data
+
 * **Research Assistant**, Facultad Latinoamericana de Ciencias Sociales. October 2019 – September 2021
   * Supervisor: Carolina Curvale
   * Project: “Political Economy of Dollarization: The Case of Ecuador”
