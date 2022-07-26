@@ -25,7 +25,7 @@ Using panel data of 143 countries from 1950 to 2010, this article estimates the 
 [did-review-draft]:{{ site.baseurl }}{% link files/Executive_Constraints.pdf %}
 
 
-**To Enfranchise or to Legislate: The Economic Effects of the Presence and Sequence of Limited Government Political Institutions.** PhD Research Proposal, 2022.
+**To Enfranchise or to Legislate? The Economic Effects of the Presence and Sequence of Limited Government Political Institutions.** PhD Research Proposal, 2022.
 
 
 
