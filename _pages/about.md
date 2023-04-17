@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Fellow at the [Department of Comparative Politics](https://www.uib.no/sampol) in the University of Bergen, and part-time Lecturer in Political Science at [Universidad Hemisferios](https://www.uhemisferios.edu.ec/). Previously, I was a scholarship recipient at [FLACSO Ecuador](https://www.flacso.edu.ec/). I also have worked as Research Assistant in several projects related to political economy and democracy studies (mostly empirical).
+I am a PhD Fellow at the [Department of Comparative Politics](https://www.uib.no/sampol) in the University of Bergen, and part-time Lecturer in Political Science at [Universidad Hemisferios](https://www.uhemisferios.edu.ec/). Previously, I was a scholarship recipient at [FLACSO Ecuador](https://www.flacso.edu.ec/), and a Master's student at [University of Barcelona](https://web.ub.edu/en/web/ub/). I also have worked as Research Assistant in several projects related to political economy and democracy studies (mostly empirical).
 
 My research broadly focuses on the intersection between politics and economics. Particularly, I am interested in areas such as Comparative Politics, Quantitative Research Methods and Political Economy. I have analyzed the empirical linkages between elections and fiscal policy in LA, the development and consequences of state capacities, the impact of participatory institutions on public goods provision, and the relationship between political institutions and economic performance. 
 
