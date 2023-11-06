@@ -14,19 +14,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
-**Executive Constraints and Economic Growth.** Unpublished Manuscript, 2022.
+**The Political Determinants of Economic Performance: Unbundling the Effect of Executive Constraints on Growth.** Working paper, 2023.
 <br/>
 <small>[ <a href="#/" onclick="visib('did-review')">Abstract</a> | [Draft][did-review-draft] ] </small>
 
 <div id="did-review" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Using panel data of 143 countries from 1950 to 2010, this thesis estimates the effects of executive constraints on economic growth. We characterize two types of constraints. Horizontal constraints are linked to the powers of parliament to control the actions of the executive. Vertical constraints are associated with political accountability in which the executive responds to its constituents or the general electorate. By identifying the economic functions of each constraint, a typology of four institutional configurations is proposed. This typology determines the degree to which a ruler is committed to securing individual rights (horizontal constraints function), and accountable to the sanction of citizens (vertical ones function). Fixed effects and GMM estimates suggest that the exclusive presence of horizontal constraints is associated with a decrease of about 0.21 percent of GDP per capita. Vertical Constraints have no significant effect, but the presence of both institutions is associated with an increase of about 0.18 percent of GDP per capita. The results show an empirically relevant interaction between both institutions.
+Most work in regime effects focuses on whether democracy matters for development. However, although the vast academic production it remains unclear what aspects of regimes are producing such an outcome. This problem arises partly because scholars use unidimensional measures of democracy, neglecting the complex and varied nature of regime evolution. I unpack the democracy-growth link by examining the economic roles and effects of two forms of executive constraints. Horizontal constraints are defined as the powers of the parliament to control the executive, whereas vertical constraints are the capacity of citizens to keep their ruler accountable. Using an unbalanced panel with 174 countries from 1950 to 2022, I found that the presence of horizontal constraints reduces GDP per capita. Even though the presence of both institutions foster growth, vertical constraints appear to be driving such an effect. These patterns remain unsensitive across specifications using within and GMM estimators. This research provides evidence of an empirically relevant interaction between democracy components, in which participatory broad-based inclusive institutions seem to be more relevant for development than liberal and elite inclusive ones.
 </small><br><br/></div>
 
 [did-review-draft]:{{ site.baseurl }}{% link files/Executive_Constraints.pdf %}
-
-
-**To Enfranchise or to Legislate? The Economic Effects of the Presence and Sequence of Limited Government Political Institutions.** PhD Research Proposal, 2022.
-
 
 
 [//]: This java script is the button to show abstract
