@@ -14,12 +14,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
-**The Political Determinants of Economic Performance: Unbundling the Effect of Executive Constraints on Growth.** Working paper, 2023.
+**Executive Constraints and Economic Growth.** Working paper, 2024.
 <br/>
 <small>[ <a href="#/" onclick="visib('did-review')">Abstract</a> | [Draft][did-review-draft] ] </small>
 
 <div id="did-review" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Most work in regime effects focuses on whether democracy matters for development. Despite the vast academic production, it remains unclear what aspects of regimes produce such an outcome. This problem arises partly because scholars use composite measures of democracy, neglecting political regimes' complex and varied nature. I unpack the democracy-growth link by examining the economic roles and effects of two forms of executive constraints. Horizontal constraints are defined as the power of the parliament to control the executive, whereas vertical constraints are the capacity of citizens to keep their rulers accountable. Using an unbalanced panel with 176 countries from 1950 to 2020, I found that a permanent transition from an autocratic to a competitive regime increases GDP per capita by 3 percent in the short run and roughly 17 percent in the long run. Contrary to the literature, having strong checks and balances does not affect growth. These patterns remain insensitive across specifications using within, GMM and IV estimators. This research provides evidence of a relevant interaction between democracy components, in which participatory broad-based inclusive institutions seem to be more relevant for development than liberal institutions. 
+Despite extensive research on the relationship between democracy and development, the aspects of democracy that are particularly important for this outcome are unclear. Here, I unpack the democracy-growth link by examining the economic effects of two forms of executive constraints: horizontal constraints, the power of the parliament to control the executive, and vertical constraints, the capacity of citizens to keep rulers accountable. Using a dynamic panel model, my results show that horizontal constraints decrease GDP per capita once controlled by the effect of democracy. Even though vertical constraints do not directly affect growth, they are strongly associated with less infant mortality, lower social unrest, and higher public expenditure. This research provides evidence that for a country to develop, it is more important to subject the ruler to free and fair elections than having a strong legislature constraining him. 
 </small><br><br/></div>
 
 [did-review-draft]:{{ site.baseurl }}{% link files/Executive_Constraints.pdf %}
