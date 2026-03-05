@@ -23,6 +23,7 @@ Despite extensive research on democracy and development, the specific democratic
 </small><br><br/></div>
 
 [did-review-draft]:{{ site.baseurl }}{% link files/Executive_Constraints.pdf %}
+- - -
 
 **Do Democracies Pay Higher Wages?** Working paper, 2026.
 <br/>
