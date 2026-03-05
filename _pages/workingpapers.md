@@ -14,7 +14,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
-**Executive Constraints and Economic Growth.** Working paper, 2024.
+**Executive Constraints and Economic Growth.** Working paper, 2026.
+<br/>
+<small>[ <a href="#/" onclick="visib('did-review')">Abstract</a> | [Draft][did-review-draft] ] </small>
+
+<div id="did-review" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Despite extensive research on democracy and development, the specific democratic institutions that drive economic growth remain unclear. This paper examines two forms of executive constraints: horizontal constraints, legislative checks on the executive; and vertical constraints, citizens' ability to hold executives accountable. While previous work emphasizes the role of horizontal constraints in securing property rights, I argue that vertical constraints primarily drive growth by expanding access to public goods. Using dynamic panel models, I find that vertical constraints significantly increase GDP per capita over time, whereas horizontal constraints have a negligible effect. I further test causal mechanisms, showing that horizontal constraints mainly encourage capital investment, whereas vertical constraints exert a stronger influence on human capital, leading to higher educational attainment, increased public spending, and lower infant mortality. These findings suggest that electoral contestation, not institutional checks on executive power, is the key democratic feature that facilitates economic development.
+</small><br><br/></div>
+
+[did-review-draft]:{{ site.baseurl }}{% link files/Executive_Constraints.pdf %}
+
+**Executive Constraints and Economic Growth.** Working paper, 2026.
 <br/>
 <small>[ <a href="#/" onclick="visib('did-review')">Abstract</a> | [Draft][did-review-draft] ] </small>
 
