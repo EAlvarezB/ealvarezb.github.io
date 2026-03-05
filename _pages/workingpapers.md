@@ -23,6 +23,16 @@ Despite extensive research on democracy and development, the specific democratic
 </small><br><br/></div>
 
 [did-review-draft]:{{ site.baseurl }}{% link files/Executive_Constraints.pdf %}
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
 - - -
 
 **Do Democracies Pay Higher Wages?** Working paper, 2026.
